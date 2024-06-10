@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41.579" height="39.724" viewBox="0 0 41.579 39.724">
+  <g id="Group_13988" data-name="Group 13988" transform="translate(-1800 -14)">
+    <g id="Group_13981" data-name="Group 13981" transform="translate(-802.358 56)">
+      <path id="Union_3" data-name="Union 3" d="M15.341,45.664H3.319A1.5,1.5,0,0,1,1.809,44.2l-.486-13.58a.5.5,0,0,0-.007-.068L0,23.006V13.949H18.642v9.056L17.3,30.554a.5.5,0,0,0-.008.072L16.851,44.2a1.5,1.5,0,0,1-1.5,1.462ZM0,12.95V9.92a.67.67,0,0,1,.67-.669h17.3a.67.67,0,0,1,.669.669v3.03Zm2.222-4.7V7.708L16.566,5.942a.18.18,0,0,1,.2.178V8.252Z" transform="translate(2602.358 -47.941)" fill="#0aa4e6"/>
+      <rect id="Rectangle_2662" data-name="Rectangle 2662" width="7" height="1.5" rx="0.75" transform="translate(2605.358 -7)" fill="#81caea"/>
+      <rect id="Rectangle_2663" data-name="Rectangle 2663" width="4" height="1.5" rx="0.75" transform="translate(2614.358 -7)" fill="#81caea"/>
+    </g>
+    <g id="Group_13987" data-name="Group 13987" transform="translate(-247.28 4.729)">
+      <path id="Subtraction_1" data-name="Subtraction 1" d="M14.579,29.159A14.58,14.58,0,0,1,4.27,4.27,14.579,14.579,0,1,1,24.889,24.889,14.484,14.484,0,0,1,14.579,29.159Zm0-25.515a2.734,2.734,0,1,0,2.733,2.734A2.737,2.737,0,0,0,14.579,3.644Z" transform="translate(2059.701 18.99)" fill="#0aa4e6"/>
+      <path id="Path_25786" data-name="Path 25786" d="M2141.553,29.606s-4.361-11.112-2.181-14.6S2141.553,29.606,2141.553,29.606Z" transform="translate(-67.273 -4.294)" fill="none" stroke="#158cbf" stroke-width="1"/>
+      <circle id="Ellipse_59" data-name="Ellipse 59" cx="0.911" cy="0.911" r="0.911" transform="translate(2073.369 24.458)" fill="#158cbf"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,128 @@
+/* * {color: red} */
+
+:root {
+  --customColor: red;
+}
+
+.modal .MuiBackdrop-root {
+  background-color: rgba(0, 0, 0, 0.411);
+}
+
+.modal .MuiBox-root:focus-visible {
+  outline: 0;
+}
+
+.lightbox .MuiBackdrop-root {
+  background-color: rgba(0, 0, 0, 0.897);
+}
+
+.loader .MuiBackdrop-root {
+  background-color: rgba(0, 0, 0, 0.637);
+}
+.GOOGLE {
+  /* background-color: #F4F8FA !important; */
+  border-radius: 25px !important;
+  box-shadow: none !important;
+  border: 1px solid rgba(145, 158, 171, 0.32) !important;
+  justify-content: center;
+  width: 100% !important;
+}
+
+.Toastify__toast {
+  text-transform: capitalize;
+}
+
+@media screen and (max-height: 700px) {
+  .responsive-footer {
+    display: block;
+  }
+}
+
+.card-container {
+  max-width: 95%;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.not-found {
+  padding: 16px 0px;
+  text-align: center;
+}
+
+.table-container {
+  background-color: transparent;
+}
+
+@media (max-width: 1842px) {
+  .responsive-btn {
+    font-size: 8px;
+  }
+}
+
+.custom-notes .MuiOutlinedInput-notchedOutline,
+.custom-notes .MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline {
+  border-color: #02b2fe;
+}
+
+.notes-container {
+  color: #02b2fe;
+  background-color: #d1e9fc;
+  padding: 14px 16px;
+  border-radius: 16px;
+}
+
+.disabled-dropzone {
+  opacity: 0.6; /* Reduce opacity to visually indicate disabled state */
+  pointer-events: none; /* Disable pointer events to block user interaction */
+  /* Add any other styles to visually indicate the disabled state */
+}
+
+.bubble {
+  max-width: 70%;
+}
+
+.bubble-sent {
+  background-color: #02b2fe;
+  color: #fff;
+  padding: 6px 15px;
+  border-radius: 15px;
+  align-self: flex-end;
+  transition: 'background-color 0.3s, color 0.3s',
+}
+
+.bubble-received {
+  background-color: #e6e6e6;
+  align-self: flex-start;
+  padding: 6px 15px;
+  border-radius: 15px;
+}
+
+.chat-bubble {
+  display: flex;
+  margin: 8px;
+}
+
+.bubble-content {
+  border-radius: 15px;
+  padding: 6px 15px;
+  width: 80%;
+  height: 40px;
+}
+
+.left {
+  justify-content: flex-start;
+}
+
+.right {
+  justify-content: flex-end;
+}
+
+.chat-container {
+  position: relative;
+  height: 50vh;
+}
+.seller-chat-container {
+  position: relative;
+  height: 61%;
+}
